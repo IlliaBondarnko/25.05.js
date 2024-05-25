@@ -56,8 +56,3 @@ img.forEach(imgitem => {
     imgitem.style.opacity = "0"
 })
 
-console.log(observer)
-// const src = img.src;
-// const dtst = img.dataset.src;
-
-
